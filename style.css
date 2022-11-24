@@ -1,8 +1,33 @@
-
-* {
-  color: skyblue;
+*{
+  font-family: Times, monospace, serif;
 }
 
-/* p {
-  color: violet
-} */
+html{
+  font-size:25px
+}
+
+p{
+  color: red;
+}
+
+
+.text{
+  color: blue;
+}
+
+.pxsize{
+  font-size: 20px;
+}
+
+.remsize{
+  font-size: 2rem;
+}
+
+.emsize{
+  font-size: 10em
+}
+
+
+h1 h2{
+  color: violet;
+}
