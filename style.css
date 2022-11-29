@@ -24,10 +24,11 @@ p{
 }
 
 .emsize{
-  font-size: 10em
+  font-size: 10em+-*
 }
 
 
-h1 h2{
+h1, h2{
+  text-align: justify;
   color: violet;
 }
